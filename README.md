@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif" height="230"/>
+  <img src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif" height="150"/>
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=m-gheini&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" height="200" />
